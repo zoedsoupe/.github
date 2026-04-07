@@ -126,6 +126,15 @@ Unnofficial Supabase libraries, examples, and repositories by the community for 
     <td><a href="https://github.com/supabase-community/supabase-kt/tree/master/Functions" target="_blank" rel="noopener noreferrer">functions-kt</a></td>
   </tr>
   <tr>
+    <td>Clojure</td>
+    <td><a href="https://github.com/supabase-community/supabase-clj/tree/main/core" target="_blank" rel="noopener noreferrer">supabase-clj</a></td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
     <td>PHP</td>
     <td><a href="https://github.com/supabase-community/supabase-php" target="_blank" rel="noopener noreferrer">supabase-php</a></td>
     <td><a href="https://github.com/supabase-community/postgrest-php" target="_blank" rel="noopener noreferrer">postgrest-php</a></td>
